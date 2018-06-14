@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "175707726914",
+    "firebase_url": "https://trackingfamily-b49ea.firebaseio.com",
+    "project_id": "trackingfamily-b49ea",
+    "storage_bucket": "trackingfamily-b49ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175707726914:android:161909b6df6aa312",
+        "android_client_info": {
+          "package_name": "com.example.diegoclaudio.trackeoprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175707726914-s2hsdsev93f1pb1vcurm0om1bk3u2698.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diegoclaudio.trackeoprueba",
+            "certificate_hash": "15092b8c0086cb00928b3e352604c147ed7308fe"
+          }
+        },
+        {
+          "client_id": "175707726914-h4vna2vvfm83hkc218n9iqgcvjs2scgg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "175707726914-h4vna2vvfm83hkc218n9iqgcvjs2scgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUnuvF2xt5VUaTCXF8HDjP-gA_I7XEXNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175707726914-h4vna2vvfm83hkc218n9iqgcvjs2scgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
